@@ -1,5 +1,3 @@
-## [https://github.com/coderms1/cs-labs](https://github.com/coderms1/cs-labs)
-
 # 🧩 Welcome to my C# Sandbox 🩴🩴
 
 ## What is it?
@@ -30,5 +28,7 @@ The plan is to expand into **database integration** and **data-driven apps**, an
 > Some projects are my own, others are assignments designed to solve specific problems.
 
 ---
+
+## [https://github.com/coderms1/cs-labs](https://github.com/coderms1/cs-labs)
 
 **- MS1**
