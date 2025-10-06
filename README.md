@@ -17,15 +17,15 @@ The plan is to expand into **database integration** and **data-driven apps**, an
 --- 
 
 ## ▶️ Running the Programs (🚨 important!)
-Each exercise is stored in its own folder with a `Program.cs` file.
+Each exercise is stored as its own `.cs` file and can be run individually.
 
-To run any exercise:
-1. Open the folder in VS Code or your terminal.
-2. Run the following command:
+To test any exercise:
+1. Copy its contents into your local `Program.cs` file in VS Code.
+2. Then run the following command:
+
 ```
 dotnet run
 ```
-
 ---
 
 ### 🛠️ Tech Stack
