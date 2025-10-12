@@ -1,5 +1,5 @@
-🧩 **Welcome to my C# Sandbox** 🩴🩴  
-❔ **What is it?**  
+🧩 ## **Welcome to my C# Sandbox** 🩴🩴  
+🤔❔#### **What is it?**  
 A space to store my `C# programs`, explore new ideas, and document my ongoing programming journey.  
 Here I work through concepts ranging from foundational syntax to object-oriented design and database connectivity.  
 
@@ -11,10 +11,10 @@ The plan is to expand into database integration and data-driven apps, and eventu
 
 ---
 
-## ▶️ Running the Programs (🚨 Important!)
+#### ▶️ Running the Programs (🚨 Important!)
 Each exercise is stored as its own `.cs` file and for simplification and must be run individually.  
 
-### ⚙️ Setup Instructions  
+#### ⚙️ Setup Instructions  
 To run any C# program locally from your device, you must first follow these simple steps 👇  
 
 #### **Install & Deploy**:
@@ -34,6 +34,16 @@ Insert/build desired script into the freshly generated Program.cs file.
 dotnet run
 ✅ Boom! Your output should appear in the terminal.
 ```
+
+####💡 **Quick Tip for Testing**:
+
+If you only want to test one file at a time, just:
+➡️ Keep one main folder (like your current MyApp/).
+➡️ Copy the code you want to test into Program.cs.
+➡️ Run w/:  `dotnet run`
+
+That’s the fastest way to experiment.
+
 #### 🛠️ **Tech Stack**:
 >> Language: `C#` <<
 
@@ -41,7 +51,7 @@ dotnet run
 
 >> Editor: `Visual Studio Code` <<
 
-📘 About
+###📘 About
 This repository will grow gradually, with new files added after completion or submission.
 Some projects are my own, others are assignments designed to solve specific problems.
 
