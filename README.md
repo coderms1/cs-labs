@@ -35,9 +35,9 @@ dotnet run
 ✅ Boom! Your output should appear in the terminal.
 ```
 #### 🛠️ **Tech Stack**:
-Language: `C#`
-Framework: `.NET SDK`
-Editor: `Visual Studio Code`
+>> Language: `C#`
+>> Framework: `.NET SDK`
+>> Editor: `Visual Studio Code`
 
 📘 About
 This repository will grow gradually, with new files added after completion or submission.
