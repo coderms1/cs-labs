@@ -20,8 +20,8 @@ To run any C# program locally from your device, you must first follow these simp
 #### **Install & Deploy**:
 ```
 1️⃣ Install the .NET SDK  
-👉 [Download here](https://dotnet.microsoft.com/en-us/download)  
-dotnet --version
+👉 [Download here](https://dotnet.microsoft.com/en-us/download)
+Once downloaded, test with CLI command: dotnet --version
 
 2️⃣ Create a New Console Project
 dotnet new console -n MyApp
@@ -33,11 +33,11 @@ Insert/build desired script into the freshly generated Program.cs file.
 4️⃣ Run the Program
 dotnet run
 ✅ Boom! Your output should appear in the terminal.
-
-🛠️ Tech Stack
-Language: C#
-Framework: .NET SDK
-Editor: Visual Studio Code
+```
+#### 🛠️ **Tech Stack**:
+Language: `C#`
+Framework: `.NET SDK`
+Editor: `Visual Studio Code`
 
 📘 About
 This repository will grow gradually, with new files added after completion or submission.
@@ -45,4 +45,4 @@ Some projects are my own, others are assignments designed to solve specific prob
 
 🔗 https://github.com/coderms1/cs-labs
 
-– MS1
+– 🌛 *MS1*
