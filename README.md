@@ -3,7 +3,7 @@
 A space to store my `C# programs`, explore new ideas, and document my ongoing programming journey.  
 Here I work through concepts ranging from foundational syntax to object-oriented design and database connectivity.  
 
-📁 **Contents**  
+### 📁 **Contents**  
 This repository includes programs created throughout my college studies and independent learning.  
 Each file reflects steady growth in logic, structure, and understanding of core C# concepts.  
 
@@ -11,10 +11,10 @@ The plan is to expand into database integration and data-driven apps, and eventu
 
 ---
 
-▶️ **Running the Programs (🚨 Important!)**
+### ▶️ **Running the Programs (🚨 Important!)**
 Each exercise is stored as its own `.cs` file and for simplification and must be run individually.  
 
-⚙️ **Setup Instructions**
+### ⚙️ **Setup Instructions**
 To run any C# program locally from your device, you must first follow these simple steps 👇  
 
 **Install & Deploy**:
