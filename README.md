@@ -35,7 +35,7 @@ dotnet run
 ✅ Boom! Your output should appear in the terminal.
 ```
 
-!--> 💡 **Quick Tip for Testing** <--!
+### 💡 Quick Tip for Testing
 
 If you only want to test one file at a time, just:
 ➡️ Keep one main folder (like your current MyApp/).
@@ -44,14 +44,12 @@ If you only want to test one file at a time, just:
 
 That’s the fastest way to experiment.
 
-#### 🛠️ **Tech Stack**:
->> Language: `C#` <<
+### 🛠️ Tech Stack:
+- Language: C#
+- Framework: .NET SDK
+- Editor: Visual Studio Code
 
->> Framework: `.NET SDK` <<
-
->> Editor: `Visual Studio Code` <<
-
-###📘 About
+### 📘 About
 This repository will grow gradually, with new files added after completion or submission.
 Some projects are my own, others are assignments designed to solve specific problems.
 
