@@ -36,7 +36,9 @@ dotnet run
 ```
 #### 🛠️ **Tech Stack**:
 >> Language: `C#`
+
 >> Framework: `.NET SDK`
+
 >> Editor: `Visual Studio Code`
 
 📘 About
