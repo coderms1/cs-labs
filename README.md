@@ -15,7 +15,7 @@ The plan is to expand into database integration and data-driven apps, and eventu
 #### **Running the Programs (🚨 Important!)**
 Each exercise is stored as its own `.cs` file and for simplification and must be run individually in a Program.cs file (using vs code)
 
-#### ⚙️**Setup & Run**
+#### ⚙️**Setup**
 ```
 To run any C# program locally from your device, you must first follow these simple steps 👇  
 
