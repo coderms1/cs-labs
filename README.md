@@ -1,10 +1,10 @@
-#### ⛱️ **Welcome to my C# Sandbox** 🩴🩴
+### ⛱️ **Welcome to my C# Sandbox** 🩴🩴
 
 → **Description**  
 A space to store my `C# programs`, explore new ideas, and document my ongoing programming journey.  
 Here I work through concepts ranging from foundational syntax to object-oriented design and database connectivity.  
 
-### 📁 **Contents**  
+#### 📁 **Contents**  
 This repository includes programs created throughout my college studies and independent learning.  
 Each file reflects steady growth in logic, structure, and understanding of core C# concepts.  
 
@@ -12,14 +12,13 @@ The plan is to expand into database integration and data-driven apps, and eventu
 
 ---
 
-### **Running the Programs (🚨 Important!)**
+#### **Running the Programs (🚨 Important!)**
 Each exercise is stored as its own `.cs` file and for simplification and must be run individually in a Program.cs file (using vs code)
 
-### ⚙️ **Setup Instructions**
+#### ⚙️**Setup & Run**
+```
 To run any C# program locally from your device, you must first follow these simple steps 👇  
 
-**Install & Deploy**:
-```
 1. Install the .NET SDK  
 →  [Download free here](https://dotnet.microsoft.com/en-us/download)
 Once downloaded, test with CLI command: dotnet --version
@@ -36,7 +35,7 @@ dotnet run
 ✅ Your output should appear in the terminal.
 ```
 
-### 💡 Quick Tips
+#### 💡 Quick Tips
 If you only want to test one file at a time, just:
 - Keep one main folder (i.e. MyApp/).
 - Copy the code you want to test into Program.cs.
@@ -44,14 +43,14 @@ If you only want to test one file at a time, just:
 
 That’s the fastest way to experiment.
 
-### 🛠️ Tech Stack:
+#### 🛠️ Tech Stack:
 - Language: C#
 - Framework: .NET SDK
 - Editor: Visual Studio Code
 - Cengage Platform (vs) via Mindtap
 - Github Companion
 
-### 📘 About
+#### 📘 About
 This repository will grow gradually, with new files added after completion or submission.
 Some projects are my own, others are assignments designed to solve specific problems.
 
