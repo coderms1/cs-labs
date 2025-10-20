@@ -51,9 +51,7 @@ public class Job
 
     public override string ToString()
     {
-        return "Job " + JobNumber + " " + Customer + " " + Description + " " + Hours +
-               " hours @$45.00 per hour. Total price is " +
-               Price.ToString("C", CultureInfo.GetCultureInfo("en-US"));
+        return $"Job {JobNumber} {Customer} {Description} {Hours} hours @$45.00 per hour. Total price is {Price.ToString("C", CultureInfo.GetCultureInfo("en-US"))}";
     }
 }
 
