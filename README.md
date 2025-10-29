@@ -52,7 +52,7 @@ That’s the fastest way to experiment.
 
 #### 📘 About
 This repository will grow gradually, with new files added after completion or submission.
-Some projects are my own, others are assignments designed to solve specific problems.
+Some projects are forr fun, most are specifically designed to solve specific problems.
 
 🔗 https://github.com/coderms1/cs-labs
 
